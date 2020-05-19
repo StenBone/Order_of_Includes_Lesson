@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/A.h
+Constants.h
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/Constants.h
+B.h
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/B.h
+B.h
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/B.h
+Constants.h
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/Constants.h
+
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/B.h
+A.h
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/A.h
+
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/Constants.h
+
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/main.cpp
+iostream
+-
+A.h
+C:/Users/bstone/CLionProjects/Order_Of_Includes_Matter/A.h
+
